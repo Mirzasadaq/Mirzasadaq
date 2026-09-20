@@ -141,17 +141,19 @@ Wrote Bash scripts automating user management, backups, log rotation, and health
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirzasadaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirzasadaq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzasadaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mirzasadaq&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
+
+> ℹ️ Stats & Top Languages cards auto-update daily via GitHub Actions (see `stats.yml`) — no external service dependency, so they won't randomly break.
 
 ---
 
