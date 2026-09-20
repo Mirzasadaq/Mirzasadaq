@@ -11,6 +11,18 @@
   <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-informational?style=for-the-badge&color=6c5ce7" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mirzasadaq&label=Profile%20Views&color=2EA3F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to-DevOps%20Opportunities-success?style=for-the-badge" />
+</p>
+
+---
+
+<!-- 🐍 Contribution snake — replace this whole <p> block after the Action generates the file, see setup steps -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mirzasadaq/Mirzasadaq/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -136,6 +148,28 @@ Wrote Bash scripts automating user management, backups, log rotation, and health
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzasadaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mirzasadaq&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 🎓 Training & Education
+
+**Complete DevOps, Docker & Kubernetes Bootcamp** — Practitioner-led weekend program conducted by working DevOps and SRE engineers, Pune
+`Trained hands-on in Docker, Kubernetes, CI/CD, and cloud fundamentals`
+
+**Master of Commerce (M.Com)** — Degloor College, affiliated with SRTMU, Nanded — CGPA: 7.99
+
+---
+
+### 🌱 Currently Focused On
+
+- Deepening Kubernetes security practices (RBAC, network policies)
+- Expanding Terraform module design for multi-environment setups
+- Sharpening GitOps workflows with Argo CD
+- Building a personal portfolio site to complement this profile
 
 ---
 
